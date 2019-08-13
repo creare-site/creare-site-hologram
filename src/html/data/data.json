@@ -1,17 +1,15 @@
 {
-    "copy"           : "AppSeed. All rights reserved.", 
-    "email"          : "support@appseed.us",
+    "copy"           : "WebsiteMarket", 
+    "email"          : "hello@websitemarket.ro",
     "design"         : "Hologram by Pixelarity",
 
-    "seo_title"      : "JAMstack - Hologram design by Pixelarity | AppSeed",
-    "seo_desc"       : "JAMstack app with Hologram design crafted by top Pixelarity.",
+    "seo_title"      : "Creare Site - Hologram design | WebsiteMarket",
+    "seo_desc"       : "Website de prezentare rapid, cu un design modern. Un produs Websitemarket",
 
-    "product"        : "https://github.com/app-generator/priv-jamstack-hologram", 
-    "github"         : "https://github.com/app-generator/priv-jamstack-hologram",
-    "facebook"       : "https://facebook.com/webappseed",
-    "twitter"        : "https://twitter.com/webappseed",
-    "support"        : "https://appseed.us/support",
-    "discord"        : "https://discord.gg/fZC6hup",
+    "product"        : "https://websitemarket.ro/", 
+    "github"         : "https://github.com/creare-site/creare-site-hologram",
+    "facebook"       : "https://facebook.com/websitemarketro",
+    "twitter"        : "https://twitter.com/websitemarketro",
 
     "LAST_KEY" : "NA"
 }
